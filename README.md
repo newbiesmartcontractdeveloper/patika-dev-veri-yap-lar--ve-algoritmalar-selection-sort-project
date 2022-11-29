@@ -8,7 +8,7 @@ www.patika.dev Veri Yapıları ve Algorimalar Selection Sort Projesi
 - 3 aşama :18, 22den küçük olduğu için 16'nın yanına geçer. [2,6,16,18,22,27]
 - : Diğer tüm rakamlar küçükten büyüğe göre sıralandığı için işlem bitmiştir.
 
-Bu algoritmada n+(n-1)+(n-2)+(n-3)+(n-4)+1 kadar işlem yapılır. Bu işlemin formülü: [n(n+1)]/2'dir. Bu formül sadeleştirilerek: (n²+n)/2 elde edilir.
+Bu algoritmada n+(n-1)+(n-2)+(n-3)+(n-4)+....+1 kadar işlem yapılır. Toplam sembolü işleminin ardından (n²+n)/2 elde edilir.
 Big-O Notation'da kat sayı önemsizdir; yani domine eden fonksiyon n² alınır.
 - Big-O değeri = O(n²)
 
