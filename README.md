@@ -1,4 +1,4 @@
-# patika-dev-veri-yap-lar--ve-algoritmalar-selection-sort-project
+# patika-dev-veri-yapılar-ve-algoritmalar-selection-sort-project
 www.patika.dev Veri Yapıları ve Algorimalar Selection Sort Projesi
 
 ## [22,27,16,2,18,6] -> Insertion Sort
